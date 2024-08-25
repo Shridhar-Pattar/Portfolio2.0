@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   downloadButton.addEventListener('click', () => {
     const link = document.createElement('a');
-    link.href = 'https://github.com/Shridhar-Pattar/Portfolio-website/raw/main/Resume_Shridhar_Pattar.pdf';
+    link.href = 'https://github.com/Shridhar-Pattar/Portfolio2.0/raw/main/Resume_Shridhar_Pattar.pdf';
     link.download = 'Resume_Shridhar_Pattar.pdf';  // Filename for the downloaded file
     document.body.appendChild(link);
     link.click();
@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   downloadButton.addEventListener('click', () => {
     const link = document.createElement('a');
-    link.href = 'https://github.com/Shridhar-Pattar/Portfolio-website/raw/main/Resume_Shridhar_Pattar.pdf';
+    link.href = 'https://github.com/Shridhar-Pattar/Portfolio2.0/raw/main/Resume_Shridhar_Pattar.pdf';
     link.download = 'Resume_Shridhar_Pattar.pdf';  // Filename for the downloaded file
     document.body.appendChild(link);
     link.click();
